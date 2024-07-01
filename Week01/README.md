@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arfa Kazi</h1>
-<h3 align="center">A passionate frontend developer from Mumbai, India</h3>
+<h3 align="center">A passionate Robotics Enthusiast from Mumbai, India</h3>
 
 - 🌱 I’m currently learning **Unity3D and C#**
 

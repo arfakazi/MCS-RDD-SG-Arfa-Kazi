@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arfa-kazi-61b4b0236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arfa-kazi-61b4b0236/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arfa-kazi-61b4b0236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arfa-kazi-61b4b0236/" height="30" width="40" /></a>
 <a href="https://instagram.com/arfa._kazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arfa._kazi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ararirang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ararirang" height="30" width="40" /></a>
 </p>
